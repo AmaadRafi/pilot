@@ -1,3 +1,5 @@
 $(function () {
-    //this code runs after page is fully loaded
+    $("go").on("click", function(){
+        alert("The paragraph was clicked.");
+      });
 });
