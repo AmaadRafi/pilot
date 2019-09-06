@@ -1,5 +1,5 @@
 $(function () {
-    $("go").on("click", function(){
-        alert("The paragraph was clicked.");
+    $('#nameform').on('submit', function(evt){
+        alert("nameform clicked");
       });
 });
