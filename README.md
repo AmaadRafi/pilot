@@ -1,2 +1,2 @@
 # pilot
-getting started
+getting started w/ html, css, js, jquerty, and bootstrap
