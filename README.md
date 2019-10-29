@@ -1,2 +1,2 @@
 # pilot
-getting started w/ html, css, js, jquerty, and bootstrap
+Getting started with HTML, CSS, JS, jQuery, and Bootstrap.
